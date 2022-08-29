@@ -1,11 +1,12 @@
-SCENARIO
+**SCENARIO**
 
 You are a data analyst at Laplace Immo, a national network of real estate agencies.
 
 The agency needs to differentiate itself from the competition with a strategic project by creating a model to better forecast the selling price of real estate.
 
 I will be in charge of the creation of the database to collect real estate and land transactions in France. Then this database will be used to analyses the market and help the different agencies to better support their clients.
-THE DATA
+
+**THE DATA**
 
 You have access to this data, extracted directly from the company's database to CSV files. Here are the files at your disposal:
 
@@ -31,7 +32,7 @@ You have access to this data, extracted directly from the company's database to 
 
 •	VoieType.
 
-SKILLS ASSESSED
+**SKILLS ASSESSED**
 
 •	Create tables in a database
 
@@ -43,9 +44,9 @@ SKILLS ASSESSED
 
 •	Create a database schema 
 
-YOUR MISSIONS
+**YOUR MISSIONS**
 
-MISSION NO. 1
+*MISSION NO. 1*
 
 •	Preparation the data dictionary;
 
@@ -54,7 +55,7 @@ MISSION NO. 1
 •	The 3NF standardized relational schema of the database.
 
 
-MISSION NO. 2
+*MISSION NO. 2*
 
 •	The creation of the database
 
